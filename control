@@ -1,0 +1,9 @@
+Package: com.icraze.wiggledots
+Name: WiggleDots
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Enter "wiggle mode" when you long-press the page dots.
+Maintainer: iCraze
+Author: iCraze
+Section: Tweaks
+Depends: mobilesubstrate
